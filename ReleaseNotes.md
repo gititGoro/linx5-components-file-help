@@ -1,3 +1,13 @@
+---
+layout: docs
+title: ReleaseNotes.md
+description: ReleaseNotes.md
+group: .
+feature: .
+component: ReleaseNotes.md
+toc: true
+redirect_from: docs/././ReleaseNotes.md/index
+---
 # Release Notes for File plugin
 <a id="1_10_109_324"></a>
 ## 1.10.109.324

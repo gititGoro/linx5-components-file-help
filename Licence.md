@@ -1,3 +1,13 @@
+---
+layout: docs
+title: Licence.md
+description: Licence.md
+group: .
+feature: .
+component: Licence.md
+toc: true
+redirect_from: docs/././Licence.md/index
+---
 # Licence for File plugin
 
 ### Author: [Twenty57](http://www.twenty57.com)

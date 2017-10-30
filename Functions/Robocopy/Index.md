@@ -1,3 +1,13 @@
+---
+layout: docs
+title: Robocopy
+description: Robocopy
+group: .
+feature: Functions
+component: Robocopy
+toc: true
+redirect_from: docs/./Functions/Robocopy/index
+---
 Robocopy
 ========
 

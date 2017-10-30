@@ -1,3 +1,13 @@
+---
+layout: docs
+title: TextFileWrite
+description: TextFileWrite
+group: .
+feature: Functions
+component: TextFileWrite
+toc: true
+redirect_from: docs/./Functions/TextFileWrite/index
+---
 TextFileWrite
 =============
 

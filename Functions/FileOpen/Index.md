@@ -1,3 +1,13 @@
+---
+layout: docs
+title: FileOpen
+description: FileOpen
+group: .
+feature: Functions
+component: FileOpen
+toc: true
+redirect_from: docs/./Functions/FileOpen/index
+---
 FileOpen
 ========
 
